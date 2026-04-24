@@ -36,27 +36,27 @@ Both versions process .tfl and .tflx files to extract field relationships, trans
 
 ### Core Capabilities
 
-- 📊 **Universal Data Source Support**: Database connections AND file sources (CSV, Excel, JSON, etc.)
-- 🔄 **Comprehensive Transformation Detection**: Calculations, renames, filters, joins, aggregations, unions, pivots
-- 🗺️ **Complete Field Lineage Mapping**: Trace dependencies from any input source to final output
-- 🎯 **Smart Table Resolution**: Automatically resolve "Unknown" table names using multiple strategies
-- 📈 **Batch Processing**: Analyze multiple flows simultaneously with progress tracking
-- 🔍 **Database Type Filtering**: Focus analysis on specific database types while preserving full context
+- **Universal Data Source Support**: Database connections AND file sources (CSV, Excel, JSON, etc.)
+- **Comprehensive Transformation Detection**: Calculations, renames, filters, joins, aggregations, unions, pivots
+- **Complete Field Lineage Mapping**: Trace dependencies from any input source to final output
+- **Smart Table Resolution**: Automatically resolve "Unknown" table names using multiple strategies
+- **Batch Processing**: Analyze multiple flows simultaneously with progress tracking
+- **Database Type Filtering**: Focus analysis on specific database types while preserving full context
 
 ### Advanced Features (Enhanced Version)
 
-- 💡 **Detailed Usage Reasoning**: Understand exactly why each field is used with comprehensive explanations
-- 🔗 **Dependency Graphs**: Visualize field relationships and transformation chains
-- 📊 **Usage Pattern Analysis**: Identify common transformation patterns and complexity scoring
-- 🎛️ **Deep Analysis Mode**: Comprehensive dependency tracking, metadata analysis, and relationship mapping
-- 🧠 **Transitive Usage Analysis**: Track indirect field dependencies through complex transformation chains
+- **Detailed Usage Reasoning**: Understand exactly why each field is used with comprehensive explanations
+- **Dependency Graphs**: Visualize field relationships and transformation chains
+- **Usage Pattern Analysis**: Identify common transformation patterns and complexity scoring
+- **Deep Analysis Mode**: Comprehensive dependency tracking, metadata analysis, and relationship mapping
+- **Transitive Usage Analysis**: Track indirect field dependencies through complex transformation chains
 
 ### Data Source Intelligence
 
-- 🗄️ **Database Sources**: Oracle, SQL Server, PostgreSQL, MySQL, Teradata, Snowflake, Redshift, BigQuery, and more
-- 📁 **File Sources**: CSV, Excel (.xls/.xlsx), JSON, Text files with proper categorization
-- 🌐 **Tableau Server**: Published data sources with connection analysis
-- 🔌 **Custom Connections**: JDBC, ODBC, and other connection types
+- **Database Sources**: Oracle, SQL Server, PostgreSQL, MySQL, Teradata, Snowflake, Redshift, BigQuery, and more
+- **File Sources**: CSV, Excel (.xls/.xlsx), JSON, Text files with proper categorization
+- **Tableau Server**: Published data sources with connection analysis
+- **Custom Connections**: JDBC, ODBC, and other connection types
 
 ## 📦 Installation & Setup
 
